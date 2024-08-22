@@ -1,0 +1,19 @@
+{
+    "name": "bismijohn/mypackage",
+    "description": "A Laravel package for managing API routes and functionalities.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bismijohn\\Mypackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bismi John",
+            "email": "bismi.john@orisys.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
